@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\C# Projeler\Blackjack_oyunu\Blackjack_oyunu\bin\Debug\Blackjack_oyunu.exe.config
+C:\Users\Lenovo\Desktop\C# Projeler\Blackjack_oyunu\Blackjack_oyunu\bin\Debug\Blackjack_oyunu.exe
+C:\Users\Lenovo\Desktop\C# Projeler\Blackjack_oyunu\Blackjack_oyunu\bin\Debug\Blackjack_oyunu.pdb
+C:\Users\Lenovo\Desktop\C# Projeler\Blackjack_oyunu\Blackjack_oyunu\obj\Debug\Blackjack_oyunu.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# Projeler\Blackjack_oyunu\Blackjack_oyunu\obj\Debug\Blackjack_oyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\C# Projeler\Blackjack_oyunu\Blackjack_oyunu\obj\Debug\Blackjack_oyunu.Form1.resources
+C:\Users\Lenovo\Desktop\C# Projeler\Blackjack_oyunu\Blackjack_oyunu\obj\Debug\Blackjack_oyunu.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\C# Projeler\Blackjack_oyunu\Blackjack_oyunu\obj\Debug\Blackjack_oyunu.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\C# Projeler\Blackjack_oyunu\Blackjack_oyunu\obj\Debug\Blackjack_oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# Projeler\Blackjack_oyunu\Blackjack_oyunu\obj\Debug\Blackjack_oyunu.exe
+C:\Users\Lenovo\Desktop\C# Projeler\Blackjack_oyunu\Blackjack_oyunu\obj\Debug\Blackjack_oyunu.pdb
